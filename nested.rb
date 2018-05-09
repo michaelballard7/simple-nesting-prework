@@ -16,7 +16,7 @@ def hopper
         }
      }
      
-     programmer_hash[:al]
+     programmer_hash[:grace_hopper][:known_for]
 
 
 end
